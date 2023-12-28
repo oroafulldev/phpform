@@ -21,7 +21,7 @@
     <section class="hero is-info">
         <div class="hero-body">
         <h1 class="title">Formulario de Contacto</h1>
-        <p class="subtitle">Complete los datos para enviar el mensaje</p>
+        <p class="subtitle">Desde aquí hasta su email</p>
         </div>
     </section>
 
